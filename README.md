@@ -118,8 +118,8 @@ def update_performance_status(performer_id, event_status):
 
 1. **Clone Repository**
 ```bash
-git clone [repository-url]
-cd [project-directory]
+git clone https://github.com/sohan2000/online-scoring-system
+cd online-scoring-system
 ```
 
 2. **Install Dependencies**
