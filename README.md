@@ -2,6 +2,9 @@
 
 A real-time performance evaluation platform built with Flask and AWS, designed for live scoring events with multiple judges, admin oversight, and public viewing.
 
+## Demo
+Link to demo: https://drive.google.com/file/d/1LRKD7Omxdnqi7ZC-6Ppx5pOCbW3Pn53o/
+
 ## System Architecture
 
 ### Tech Stack
